@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "js-xlsx": "~0.8.0",
-    "angular": "^1.4.8"
+    "angular": "^1.6.4"
   },
   "keywords": [
     "excel",
